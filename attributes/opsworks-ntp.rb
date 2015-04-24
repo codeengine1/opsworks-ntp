@@ -1,0 +1,1 @@
+override[:ntp][:servers] = ['time.nist.gov', 'time-a.nist.gov', 'time-b.nist.gov', 'time-c.nist.gov', 'time-d.nist.gov']
